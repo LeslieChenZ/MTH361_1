@@ -1,0 +1,13 @@
+{
+  "topic": "01-Root-Finding",
+  "assets_root": "TeachingMaterials/MTH361/01-Root-Finding/assets",
+  "images": [
+    {
+      "suggested_filename": "topic01-concept-map.png",
+      "path_from_topic_root": "assets/topic01-concept-map.png",
+      "source": "Export from Obsidian Canvas as PNG.",
+      "alt_text": "Concept map showing the relationships among root-finding methods in Topic 01.",
+      "caption": "Topic 01 concept map (exported from Obsidian Canvas as a PNG)."
+    }
+  ]
+}
