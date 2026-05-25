@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - wide-page
+---
 # Topic 01: Root Finding / Solution of Equations
 
 > [!info]   Attribution

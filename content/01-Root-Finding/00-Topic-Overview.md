@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - wide-page
+---
 # Root Finding / Solution of Equations
 
 > [!info]   Attribution

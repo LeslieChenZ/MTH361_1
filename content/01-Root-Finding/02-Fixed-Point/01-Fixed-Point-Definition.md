@@ -2,7 +2,7 @@
 cssclasses:
   - wide-page
 ---
-# 1.1 Bisection Method (Index)
+# Definition: Fixed Point
 
 ---
 <!-- .slide: data-visibility="hidden" -->
@@ -11,9 +11,9 @@ cssclasses:
 > - Date Modified: `$= dv.el('span', dv.current().file.mtime.toLocaleString(DateTime.DATE_MED_WITH_WEEKDAY))`, `$= dv.el('span', dv.current().file.mtime.toLocaleString(DateTime.TIME_WITH_SHORT_OFFSET))`.
 
 ---
-## Pages
-- [Bisection Method](./00-Bisection-Overview.md)
-- [Intermediate Value Theorem](./01-Intermediate-Value-Theorem.md)
-- [Stopping Criteria](./02-Bisection-Stopping-Criteria.md)
-- [Worked Example](./10-Bisection-Example.md)
-- [MATLAB Full Code](./90-Bisection-MATLAB-Full-Code.md)
+## Definition
+A number $p$ is a fixed point of a function $g$ if $g(p)=p$.
+
+<!-- LaTeX source (fallback):
+g(p)=p
+-->
