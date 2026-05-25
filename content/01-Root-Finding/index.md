@@ -1,11 +1,8 @@
----
-title: "Topic 01: Root Finding / Solution of Equations"
-draft: false
----
 # Topic 01: Root Finding / Solution of Equations
 
 > [!info]   Attribution
 > - Created by Dr. Zheng Chen (UMass Dartmouth Math Department).
+> - Date Modified: `$= dv.el('span', dv.current().file.mtime.toLocaleString(DateTime.DATE_MED_WITH_WEEKDAY))`, `$= dv.el('span', dv.current().file.mtime.toLocaleString(DateTime.TIME_WITH_SHORT_OFFSET))`.
 
 
 ## Start here
@@ -19,7 +16,7 @@ draft: false
 - [1.5 Error Analysis for Iterative Methods](./05-Error-Analysis/00-Error-Analysis-Overview.md)
 - [1.6 Accelerating Convergence](./06-Accelerating-Convergence/00-Accelerating-Convergence-Overview.md)
 
-## Topic map (concept map/flowchart)
+## Topic map (concept map / flowchart)
 ![Concept map showing the relationships among root-finding methods in Topic 01, including bisection, fixed-point iteration, Newton’s method, and related convergence/error analysis topics.](./assets/topic01-concept-map.png)
 
 *Figure: Topic 01 concept map (exported from Obsidian Canvas as a PNG).*

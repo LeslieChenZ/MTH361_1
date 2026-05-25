@@ -9,5 +9,5 @@
 Suppose $f$ is continuous on the interval $[a,b]$, and $f(a)$ and $f(b)$ have opposite signs. Then there is a number $p$ such that $f(p)=0$.
 
 <!-- LaTeX source (fallback):
-Suppose f is continuous on [a,b], and f(a) and f(b) have opposite signs. Then there is p such that f(p)=0.
+Suppose f is continuous on [a,b], and f(a) and f(b) have opposite signs. Then there is a number p such that f(p)=0.
 -->

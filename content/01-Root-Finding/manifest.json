@@ -6,8 +6,19 @@
       "suggested_filename": "topic01-concept-map.png",
       "path_from_topic_root": "assets/topic01-concept-map.png",
       "source": "Export from Obsidian Canvas as PNG.",
-      "alt_text": "Concept map showing the relationships among root-finding methods in Topic 01.",
-      "caption": "Topic 01 concept map (exported from Obsidian Canvas as a PNG)."
+      "alt_text": "Concept map showing relationships among root-finding methods in Topic 01.",
+      "caption": "Topic 01 concept map (exported from Obsidian Canvas as a PNG).",
+      "suggested_dimensions_px": "1600x900 (or larger if text is small)",
+      "approx_size_kb": "150-600"
+    },
+    {
+      "suggested_filename": "rootfinding-bisection-first5-iterates.png",
+      "path_from_topic_root": "assets/rootfinding-bisection-first5-iterates.png",
+      "source": "Export from MATLAB (bisection example plot).",
+      "alt_text": "Plot of f(x) on [-1,1] with y=0 and first five bisection iterates marked.",
+      "caption": "Function and first five bisection iterates.",
+      "suggested_dimensions_px": "1200x800",
+      "approx_size_kb": "80-250"
     }
   ]
 }

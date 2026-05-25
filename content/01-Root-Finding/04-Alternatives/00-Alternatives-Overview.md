@@ -6,4 +6,4 @@
 
 
 ## TODO
-This section will be filled from your lecture HTML/PDF in the next pass.
+(To be filled next.)
